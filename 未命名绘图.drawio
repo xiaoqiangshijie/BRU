@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T08:30:55.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="vYQcWNF-uVaILy9CXBow" version="20.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-07T05:54:48.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="eBCx_9_-GJQey8y-b5Km" version="20.2.7" type="github" pages="5">
   <diagram id="3_wPpgvkuWtoIOWU1W60" name="第 1 页">
-    <mxGraphModel dx="3410" dy="1445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3041" dy="1239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A4Pt-Lu-OmqyrsYdWGZ5" name="BRU">
-    <mxGraphModel dx="1632" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -578,7 +578,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DCF6RjGyLmGZEf6rufB7" name="第 3 页">
-    <mxGraphModel dx="3100" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -618,11 +618,14 @@
         <mxCell id="duEBgY7IgfWS77JvMXkq-9" value="BRU" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="duEBgY7IgfWS77JvMXkq-16" value="B、BL&lt;br&gt;B.cond&amp;nbsp;CB(N)Z&amp;nbsp;TB(N)Z&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="620" width="150" height="40" as="geometry" />
+        <mxCell id="_1u0NdCaPmrh4gLbNa-B-1" value="BRU" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="730" y="540" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="duEBgY7IgfWS77JvMXkq-17" value="BR、BLR" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="725" y="565" width="80" height="30" as="geometry" />
+        <mxCell id="_1u0NdCaPmrh4gLbNa-B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_1u0NdCaPmrh4gLbNa-B-3" target="_1u0NdCaPmrh4gLbNa-B-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_1u0NdCaPmrh4gLbNa-B-3" value="BRU" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="390" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
