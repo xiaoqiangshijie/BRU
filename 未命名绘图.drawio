@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T03:27:59.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="KCmzD9_6JBdSsA0LQJIz" version="20.5.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-11-08T06:47:17.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="BoWpYpPPJUYAkXZYOGp5" version="20.5.3" type="github" pages="7">
   <diagram id="3_wPpgvkuWtoIOWU1W60" name="第 1 页">
     <mxGraphModel dx="1562" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -924,7 +924,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iFsQY8NKhM8djc8x5blZ" name="shift接口">
-    <mxGraphModel dx="755" dy="1311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1192,6 +1192,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1440" y="-320" as="sourcePoint" />
             <mxPoint x="1520" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZPPJE7UczZWjzDejGE35-23" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1220" y="-600" as="sourcePoint" />
+            <mxPoint x="1520" y="-540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1460" y="-600" />
+              <mxPoint x="1460" y="-540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZPPJE7UczZWjzDejGE35-24" value="src[127:0]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZPPJE7UczZWjzDejGE35-23">
+          <mxGeometry x="0.1559" y="2" relative="1" as="geometry">
+            <mxPoint x="-168" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
